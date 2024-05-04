@@ -186,6 +186,7 @@ class ImageDetailsScreen extends StatelessWidget {
                     Text(
                       'Suggestions',
                       style: TextStyle(
+                        color: Colors.green,
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
                       ),
